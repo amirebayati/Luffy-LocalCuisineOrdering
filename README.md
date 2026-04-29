@@ -81,9 +81,9 @@ Contributions to improve the design artifacts or begin implementation are welcom
 
 By contributing to this repository, you agree that your contributions will be licensed under the same terms.
 
-## 
- [@amirhossein bayati](https://github.com/amirebayati)
- [Simin kashfi]
-(siminkashfi81@gmail.com)
- [pegah moradi]
+...
+
+amirhossein bayati
+Simin kashfi
+pegah moradi
 - 
