@@ -80,11 +80,4 @@ Contributions to improve the design artifacts or begin implementation are welcom
 - Documents and media (PDFs, images, video) are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See [LICENSE](./LICENSE).
 
 By contributing to this repository, you agree that your contributions will be licensed under the same terms.
-
-...
-
-amirhossein bayati
-
-Simin kashfi
-
-pegah moradi
+    
